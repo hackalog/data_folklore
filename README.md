@@ -1,12 +1,10 @@
 data_folklore
 ==============================
 
-There's Data Science, athen there's Data Folklore. This is a repo for the latter.
+There's "Data Science," and then there's Data Folklore. This is a repo for the latter.
 
 GETTING STARTED
 ---------------
-
-For complete instructions, visit: https://github.com/hackalog/bus_number/wiki/Getting-Started
 
 * Create and switch to the  virtual environment:
 ```
